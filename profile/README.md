@@ -1,2 +1,2 @@
 ## Hi there 👋
-We are **Mercurial**, we create Discord Bots for getting information from Minecraft.
+We are **[Mercurial](https://top.gg/team/322045179699011584)**, we create Discord Bots for getting information from Minecraft.
